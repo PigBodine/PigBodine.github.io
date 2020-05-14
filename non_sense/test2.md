@@ -23,5 +23,5 @@ hahaha
 `Code 1222222 gg`
 
 
-![Image of kim_sis]("Kim Jong un sister.jpeg")
+![Image of kim_sis](Kim Jong un sister.jpeg)
 
