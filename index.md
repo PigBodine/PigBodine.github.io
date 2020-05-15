@@ -7,6 +7,9 @@ Hello World <br>
 # this is header test
 
 
+<h1 style="font-size:2em;color:#2467C0">Average Movie Ratings over Time </h1>
+
+
 Peetn drew his cloak more firmly about his furry shoulders as the sun began to sink through the Martian sky and the wind throbbed a deeper note in the gathering darkness. He stood gazing silently as the fading light painted the sky in somber colors, preparing to disappear for another night of screaming wind and penetrating sub-zero cold.
 
 >He watched until the twilight deepened to purple and then stalked laborio
